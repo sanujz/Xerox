@@ -1,0 +1,8 @@
+{
+    "MONGO_DB": "mongodb+srv://sestro:sestro@cluster0.zldd64l.mongodb.net/?retryWrites=true&w=majority",
+    "cooldown": true,
+    "owner": ["885368385595125791","1232606413268713568"],
+    "admin": ["885368385595125791"],
+    "np": ["885368385595125791"],
+    "invite": "https://discord.com/oauth2/authorize?client_id=1255365448367607838"
+}
